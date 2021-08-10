@@ -2,19 +2,18 @@
 
 My name is Kapil Yadav, and I've been a web developer for over 10 years. I create websites & hybrid mobile applpications & open source softwares, and love creating technical educational content for Magento, Laravel, Docker, PHP, & JavaScript.
 
-💬 Ask me about ...
+📫 How to reach me: ..
 
 If you need help with Website, Mobile App or any customized software solution.
+
+Website: https://www.infogiants.com
+Email: <a href="mailto:contact@infogiants.com" rel="nofollow">contact@infogiants.com</a>
+YouTube: <a href="https://www.youtube.com/channel/UCrsObKfBBek_-h6ATc3nWxQ" rel="nofollow">Youtube Channel</a>
 
 ⚡ My Stats: ...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lpkapil)
 
-📫 How to reach me: ..
-
-Website: https://www.infogiants.com
-Email: <a href="mailto:contact@infogiants.com" rel="nofollow">contact@infogiants.com</a>
-YouTube: <a href="https://www.youtube.com/channel/UCrsObKfBBek_-h6ATc3nWxQ" rel="nofollow">Youtube Channel</a>
 
 <!--
 **lpkapil/lpkapil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
