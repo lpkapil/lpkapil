@@ -4,11 +4,11 @@ My name is Kapil Yadav, and I've been a web developer for over 10 years. I creat
 
 📫 How to reach me: ..
 
-If you need help with Website, Mobile App or any customized software solution.
+If you need help with Website, Mobile App or any customized software solution. You can always reach out to me on following.
 
-Website: https://www.infogiants.com
-Email: <a href="mailto:contact@infogiants.com" rel="nofollow">contact@infogiants.com</a>
-YouTube: <a href="https://www.youtube.com/channel/UCrsObKfBBek_-h6ATc3nWxQ" rel="nofollow">Youtube Channel</a>
+**Website**: https://www.infogiants.com
+**Email**: <a href="mailto:contact@infogiants.com" rel="nofollow">contact@infogiants.com</a>
+**YouTube**: <a href="https://www.youtube.com/channel/UCrsObKfBBek_-h6ATc3nWxQ" rel="nofollow">Youtube Channel</a>
 
 ⚡ My Stats: ...
 
