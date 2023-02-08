@@ -1,15 +1,10 @@
 ### Hi there 👋
 
-My name is Kapil Yadav, and I've been a web developer for over 10 years. I am founder of <a href="https://www.infogiants.com" target="_blank">**InfoGiants**</a>, I create websites & hybrid mobile applpications & open source softwares, and love creating technical educational content for Magento, Laravel, Docker, PHP, & JavaScript.
+My name is Kapil Yadav, and I've been a web developer for over 10 years. I create websites & hybrid mobile applpications & open source softwares, and love creating technical educational content for Magento2, WordPress, Laravel, Docker, PHP, & JavaScript.
 
 📫 How to reach me: ..
 
-If you need help with Website, Mobile App or any customized software solution. You can always reach out to me on following.
-
-**Website**: https://www.infogiants.com
-**Email**: <a href="mailto:contact@infogiants.com" rel="nofollow">contact@infogiants.com</a>
-**YouTube**: <a href="https://www.youtube.com/channel/UCrsObKfBBek_-h6ATc3nWxQ" rel="nofollow">Youtube Channel</a>
-
+If you need help with Website, Mobile App or any customized software solution. You can always reach out to me.
 ⚡ My Stats: ...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lpkapil)
