@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been a Fullstack computer engineer for over 13 years. I create websites & hybrid mobile applpications & open source softwares, and love creating technical educational content for Python, Magento2, WordPress, Laravel, Docker, PHP, & JavaScript.
+I've been a Fullstack computer engineer for over 13 years. I create websites & hybrid mobile applpications & open source softwares, and love creating technical educational content for C, C++, Java, Shell, Rust, Go, Python, Magento2, WordPress, Laravel, Docker, PHP, & JavaScript.
 
 📫 How to reach me: ..
 
